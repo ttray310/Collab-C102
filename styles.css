@@ -1,3 +1,62 @@
-body {
-    background-color: blue;
+header {
+    border: 3px solid black;
+    border-style: double;
+    background-color: linen;
+}
+
+h1 {
+    text-align: center;
+    font-family:Verdana, Tahoma, sans-serif;
+    font-size: 90px;
+    margin: 30px;
+}
+
+header nav {
+    text-align: center;
+}
+
+header ul li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    list-style-type: none;
+    /* list-style-position: inside; */  
+    min-width: 220px;
+    font-size: 15px ;
+}
+
+#topsec {
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+#topsec img {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align:center;
+    font-family: Apple Chancery, cursive;
+    font-size: 40px;
+    margin: 3px ;
+}
+
+#botsec p {
+    margin-top:0px;
+    font-family: Didot, serif;
+}
+
+#botsec img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+}
+
+footer {
+    text-align: center;
+    color: red;
+    font-size: 20px;
 }
