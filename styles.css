@@ -44,6 +44,10 @@ h2 {
     margin: 3px ;
 }
 
+h3 {
+    text-align: center;
+}
+
 #botsec p {
     margin-top:0px;
     font-family: Didot, serif;
